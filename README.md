@@ -1,2 +1,5 @@
-# task4
-Task 4 for mnm recruitment test
+# Task 4 - Variant Allele Frequency
+
+Code adapted from 
+Bruno Grande
+
